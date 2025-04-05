@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Contact us </title>
+    <style>
+        body {
+            font-family: Montserrat, bold;
+            text-align: center;
+            margin: 50px;
+        }
+        a {
+            display: block;
+            margin: 20px;
+            text-decoration: none;
+            font-size: 28px;
+            color: #144d46;
+        }
+        a:hover {
+            color: #25d366; /* واتساب اللون */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>تواصل معنا</h1>
+    <a href="https://www.facebook.com/profile.php?id=100084009225484" target="_blank">facebook  </a>
+    <a href="https://wa.me/+201553625157" target="_blank">WhatsApp</a>
+    <a href="https://www.google.com/maps?q=https://www.google.com/maps/place/3dm+advertising/@27.1974129,33.8267675,17z/data=!3m1!4b1!4m6!3m5!1s0x412500b0764e9219:0x68e3487c43f4fa1!8m2!3d27.1974129!4d33.8245788!16s%2Fg%2F11wfb_rx49?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank">موقعنا على الخريطة</a>
+
+</body>
+</html>
